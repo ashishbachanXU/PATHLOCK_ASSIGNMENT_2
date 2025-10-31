@@ -330,12 +330,10 @@ npm run lint
 - Delete tasks with confirmation
 - Toggle task completion status
 - Visual feedback for completed tasks
-- Optimistic updates with error recovery
 
 ### 4. Smart Scheduler
 - Dependency resolution algorithm
 - Topological sort for task ordering
-- Circular dependency detection
 - Estimated hours consideration
 - Due date awareness
 - Visual task order display
@@ -343,9 +341,6 @@ npm run lint
 ### 5. UI/UX Features
 - **Dark Mode**: Premium grey theme with liquid glass effects
 - **Theme Toggle**: Switch between light and dark modes
-- **Toast Notifications**: Real-time feedback for all actions
-- **Loading States**: Spinners and loading indicators
-- **Error Handling**: User-friendly error messages
 - **Mobile Menu**: Responsive navigation for mobile devices
 - **Auto-Height Cards**: Cards expand naturally with content
 - **Smart Scrolling**: Task lists scroll after threshold
@@ -372,12 +367,6 @@ The application is fully responsive and works on:
 - 📱 Tablets (768px+)
 - 💻 Desktops (1024px+)
 - 🖥️ Large screens (1440px+)
-
-### Breakpoints
-- **Mobile**: ≤640px (single column)
-- **Tablet**: 641px-1024px (2 columns)
-- **Desktop**: ≥1025px (3+ columns)
-
 ---
 
 ## 🐛 Troubleshooting
@@ -416,9 +405,6 @@ npx kill-port 5173
 # Solution: Update Node.js to v20.19+ or v22.12+
 # Or ignore the warning (app will still work)
 ```
-
----
-
 ## 📦 Dependencies
 
 ### Backend
@@ -452,20 +438,6 @@ npx kill-port 5173
 ![Mobile View](screenshots/mobile.png)
 
 ---
-
-## 🔮 Future Enhancements
-
-- [ ] User profile management
-- [ ] Project sharing and collaboration
-- [ ] Task comments and attachments
-- [ ] Email notifications
-- [ ] Calendar view
-- [ ] Task priorities
-- [ ] Project templates
-- [ ] Export to PDF/Excel
-- [ ] Real-time updates with SignalR
-- [ ] OAuth integration (Google, Microsoft)
-
 
 
 <div align="center">
