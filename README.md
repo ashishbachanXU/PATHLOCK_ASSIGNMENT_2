@@ -16,7 +16,6 @@ Mini Project Manager is a comprehensive full-stack web application that enables 
 - 🔐 **Secure Authentication** - JWT-based user registration and login
 - 📊 **Project Management** - Create, view, and delete projects with ease
 - ✅ **Task Management** - Add, edit, delete, and toggle task completion
-- 🤖 **Smart Scheduler** - AI-powered task scheduling with dependency resolution
 - 🎨 **Premium Dark Mode** - Modern grey shades with liquid glass effects
 - 📱 **Responsive Design** - Mobile-friendly interface with auto-height cards
 - ⚡ **Optimistic Updates** - Instant UI updates with error recovery
