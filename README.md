@@ -406,8 +406,4 @@ The application is fully responsive and works on:
 
 <div align="center">
 
-**⭐ Star this repository if you find it helpful!**
-
-Made with ❤️ by [ASHISH BACHAN]
-
 </div>
