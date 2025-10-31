@@ -369,42 +369,6 @@ The application is fully responsive and works on:
 - 🖥️ Large screens (1440px+)
 ---
 
-## 🐛 Troubleshooting
-
-### Backend Issues
-
-**Issue**: Database not found
-```bash
-# Solution: Run migrations
-cd MiniProjectManager.Api
-dotnet ef database update
-```
-
-**Issue**: Port 5055 already in use
-```bash
-# Solution: Change port in launchSettings.json or kill the process
-netstat -ano | findstr :5055
-taskkill /PID <process-id> /F
-```
-
-### Frontend Issues
-
-**Issue**: Port 5173 already in use
-```bash
-# Solution: Kill the process
-npx kill-port 5173
-```
-
-**Issue**: API connection refused
-- Ensure backend is running on port 5055
-- Check CORS configuration in backend
-- Verify API URL in `api.ts`
-
-**Issue**: Node version warning
-```bash
-# Solution: Update Node.js to v20.19+ or v22.12+
-# Or ignore the warning (app will still work)
-```
 ## 📦 Dependencies
 
 ### Backend
