@@ -436,69 +436,6 @@ npx kill-port 5173
 - typescript (5.6.2)
 - vite (7.1.12)
 
----
-
-## 🚀 Deployment
-
-### Backend Deployment (Render.com)
-
-1. Create account on [Render.com](https://render.com)
-2. Create new Web Service
-3. Connect GitHub repository
-4. Configure:
-   - **Build Command**: `dotnet publish -c Release -o out`
-   - **Start Command**: `dotnet out/MiniProjectManager.Api.dll`
-   - **Environment Variables**: Add JWT secret
-5. Deploy
-
-### Frontend Deployment (Vercel)
-
-1. Create account on [Vercel.com](https://vercel.com)
-2. Import GitHub repository
-3. Configure:
-   - **Framework**: Vite
-   - **Root Directory**: `mini-project-manager-ui`
-   - **Build Command**: `npm run build`
-   - **Output Directory**: `dist`
-   - **Environment Variable**: `VITE_API_URL=<backend-url>`
-4. Deploy
-
----
-
-## 👥 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- React team for the amazing framework
-- Microsoft for .NET 8
-- Vite team for the blazing fast build tool
-- All open-source contributors
-
----
 
 ## 📸 Screenshots
 
@@ -529,16 +466,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [ ] Real-time updates with SignalR
 - [ ] OAuth integration (Google, Microsoft)
 
----
 
-## 📞 Support
-
-If you have any questions or need help, please:
-- Open an issue on GitHub
-- Email: support@miniprojectmanager.com
-- Documentation: [Wiki](https://github.com/yourusername/mini-project-manager/wiki)
-
----
 
 <div align="center">
 
