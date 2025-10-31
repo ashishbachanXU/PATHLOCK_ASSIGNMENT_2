@@ -472,6 +472,6 @@ npx kill-port 5173
 
 **⭐ Star this repository if you find it helpful!**
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [ASHISH BACHAN]
 
 </div>
