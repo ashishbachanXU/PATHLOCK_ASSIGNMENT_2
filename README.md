@@ -9,7 +9,7 @@
 
 ## 🌟 Overview
 
-Mini Project Manager is a comprehensive full-stack web application that enables users to efficiently manage projects and tasks. Built with modern technologies and featuring a premium dark mode UI with liquid glass effects, it provides an intuitive and visually appealing experience for project management.
+Mini Project Manager is a comprehensive full-stack web application that enables users to efficiently manage projects and tasks. Built with modern technologies and featuring a premium dark mode UI , it provides an intuitive and visually appealing experience for project management.
 
 ### ✨ Key Features
 
