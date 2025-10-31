@@ -230,33 +230,6 @@ Open your browser and navigate to:
 - **API Documentation**: http://localhost:5055/swagger (if enabled)
 
 ---
-
-## 🛑 Stopping the Application
-
-### Stop Servers
-
-Press `Ctrl + C` in each terminal window where the servers are running.
-
-### Kill Processes (if needed)
-
-#### Windows (PowerShell)
-```powershell
-# Kill backend
-Get-Process -Name "dotnet" | Where-Object {$_.Path -like "*MiniProjectManager*"} | Stop-Process
-
-# Kill frontend
-Get-Process -Name "node" | Where-Object {$_.CommandLine -like "*vite*"} | Stop-Process
-```
-
-#### Linux/Mac
-```bash
-# Kill backend
-pkill -f "dotnet.*MiniProjectManager"
-
-# Kill frontend
-pkill -f "vite"
-```
-
 ---
 
 ## 📡 API Endpoints
