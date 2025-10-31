@@ -426,13 +426,13 @@ npx kill-port 5173
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Dark Mode
-![Dark Mode](screenshots/dark_mode.png)
+![Dark Mode](dark_mode.png)
 
 ### Mobile View
-![Mobile View](screenshots/mobile_view.png)
+![Mobile View](mobile_view.png)
 
 ---
 
