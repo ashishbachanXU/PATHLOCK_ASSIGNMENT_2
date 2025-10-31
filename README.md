@@ -384,10 +384,21 @@ The application is fully responsive and works on:
 - typescript (5.6.2)
 - vite (7.1.12)
 
+## 📸 Screenshots
 
-<img width="1498" height="884" alt="Screenshot 2025-10-31 143844" src="https://github.com/user-attachments/assets/3522d76e-662e-4899-b810-ecab1d637c86" />
+### Dashboard
+![Dashboard](login_page.png)
 
+### Project Details
+![Project Details](dashboard.png)
 
+### Dark Mode
+![Dark Mode](dark_mode.png)
+
+### Mobile View
+![Mobile View](mobile_view.png)
+
+---
 ---
 
 
