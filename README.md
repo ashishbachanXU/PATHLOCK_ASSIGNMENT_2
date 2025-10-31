@@ -19,9 +19,7 @@ Mini Project Manager is a comprehensive full-stack web application that enables 
 - 🤖 **Smart Scheduler** - AI-powered task scheduling with dependency resolution
 - 🎨 **Premium Dark Mode** - Modern grey shades with liquid glass effects
 - 📱 **Responsive Design** - Mobile-friendly interface with auto-height cards
-- 🔔 **Toast Notifications** - Real-time user feedback
 - ⚡ **Optimistic Updates** - Instant UI updates with error recovery
-- 🎯 **Inline Editing** - Edit tasks directly without modals
 
 ---
 
