@@ -389,6 +389,9 @@ The application is fully responsive and works on:
 
 ## 📸 Screenshots
 
+### Mobile View
+![Mobile View](login_page.png)
+
 ### Dashboard
 ![Dashboard](dashboard.png)
 
