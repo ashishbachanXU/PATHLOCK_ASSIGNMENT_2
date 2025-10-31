@@ -399,8 +399,6 @@ The application is fully responsive and works on:
 ![Mobile View](mobile_view.png)
 
 ---
----
-
 
 <div align="center">
 
